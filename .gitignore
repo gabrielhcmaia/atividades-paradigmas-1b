@@ -1,0 +1,14 @@
+# Java / build
+*.class
+out/
+bin/
+target/
+
+# IntelliJ
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+
+# SO
+.DS_Store
